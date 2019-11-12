@@ -1,0 +1,27 @@
+.daily-email{
+    background: green;
+    height: 200px;
+}
+
+
+  
+@media only screen and (max-width: 900px) {
+    /* For mobile phones: */
+
+    .daily-email{
+        background: yellow;
+        height: 200px;
+    }
+   
+  }
+
+  
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+    .daily-email{
+        background: red;
+        height: 200px;
+    }
+   
+  }

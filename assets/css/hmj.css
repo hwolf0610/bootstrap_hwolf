@@ -1,0 +1,53 @@
+.unline{
+    color:blue;
+    tab-size: 30px;
+}
+ .form{
+    margin-bottom: 20px;
+    background: #13a638;
+    height: 200px;
+ }
+ .right_text{
+     color: white;
+     font-size: 19px;
+     
+ }
+ .inputtext{
+     font-size: 20px;
+
+ }
+ .imgmargin{
+     margin-left: 10px;
+     margin-right: 10px;
+     cursor: pointer;
+ }
+ .norepeat{
+    font-size:15;
+    background-repeat: no-repeat;
+    float: none;
+    mask-repeat: no-repeat;
+    flex-flow: nowrap;
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+ .frist{
+    background: url(../img/img5.png);
+    height: 60px;
+ }
+ @media only screen and (max-width: 900px) {
+    /* For mobile phones: */
+
+    .daily-email{
+        background: yellow;
+        height: 200px;
+    }
+   
+  }
+  .header .form456{
+    font-size:15;
+    color: green;
+  }
+  .header >.form123{
+    font-size:15;
+    color: green;
+  }
